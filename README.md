@@ -12,6 +12,6 @@
 
 *1: instalacion 
   -clonar:
-    -https://github.com/Flemacs/Challenge_Alura_Latam.git
+    -
 *2: vista previa del programa
-  -https://flemacs.github.io/Challenge-Alura/
+  -
