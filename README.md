@@ -11,7 +11,7 @@
   - style.css
 
 *1: instalacion 
-  -clonar:
-    -
+  -clonar: 
+    https://github.com/Flemacs/Challenge_Alura_Latam.git
 *2: vista previa del programa
-  -
+  - https://flemacs.github.io/Challenge_Alura_Latam/
